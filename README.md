@@ -4,7 +4,7 @@ O segundo desafio proposto pelo professor, no primeiro módulo do programa Santa
 
 ---
 
-### Execução
+### Execução do programa
 
 Com os três arquivos (funcoes, app e \_\_init\_\_) na mesma pasta, basta digitar no terminal:
 
